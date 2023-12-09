@@ -13,7 +13,7 @@ A Fullstack JavaScript Developer never tired of learning and always up for new p
 
 🤝  I'm open to collaborating on all kind of projects :) feel free the hit me up!
 
-⚡  I am the Joker .
+⚡  Multitasking .
 
 ### 🛠 Tools & Stacks
 <img src="https://img.icons8.com/fluency/30/null/azure-1.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/null/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/color/30/null/git.png"/> <img src="https://img.icons8.com/color/30/null/linux--v1.png"/> 

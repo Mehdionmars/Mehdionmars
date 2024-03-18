@@ -11,7 +11,7 @@ A Fullstack JavaScript Developer never tired of learning and always up for new p
 
 🧠  I'm learning everything at the same time
 
-🤝  I'm open to collaborating on all kind of projects :) feel free the hit me up!
+🤝  I'm open to collaborating on all kind of projects :) feel free to hit me up!
 
 ⚡  Multitasking .
 
